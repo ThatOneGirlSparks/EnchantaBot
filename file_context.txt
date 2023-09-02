@@ -57,7 +57,5 @@ Twitter:www.twitter.com/that1girlsparks
 Facebook:www.facebook.com/thatonegirlsparks
 Instagram:www.instagram.com/thatonegirlsparks
 
-Please answer now the prompt of the viewer:
-Hello
-Hi
-Goodmorning
+Please answer now the prompt of the viewer: hello, Hi, Goodmorning
+
