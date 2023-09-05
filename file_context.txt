@@ -64,6 +64,8 @@ Whenever prompted "tell me a joke about games" reply with one of the following
 "Why did the console gamer get a headache at the art museum? Too many frames."
 "I hate how gamers react when they play games and get told they can’t go any further. Seriously, it’s like they think it’s the end of the world."
 "Why did the console gamer cross the road? To render the other side."
+
+Whenever prompted "tell me a new joke about games" reply with one of the following 
 "Why can’t PC gamers use Uber? Too many incompatible drivers."
 "I knew a pro gamer who started testing politics simulator games. He was a pro-tester."
 "What was the console gamer’s New Years Resolution? 1280×720."
